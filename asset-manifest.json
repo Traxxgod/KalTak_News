@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KalTak_News/static/css/main.07d26e39.css",
+    "main.js": "/KalTak_News/static/js/main.29ddf269.js",
+    "static/js/787.5c3fa0d8.chunk.js": "/KalTak_News/static/js/787.5c3fa0d8.chunk.js",
+    "index.html": "/KalTak_News/index.html",
+    "main.07d26e39.css.map": "/KalTak_News/static/css/main.07d26e39.css.map",
+    "main.29ddf269.js.map": "/KalTak_News/static/js/main.29ddf269.js.map",
+    "787.5c3fa0d8.chunk.js.map": "/KalTak_News/static/js/787.5c3fa0d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d26e39.css",
+    "static/js/main.29ddf269.js"
+  ]
+}
